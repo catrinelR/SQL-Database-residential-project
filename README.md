@@ -18,6 +18,6 @@ Project requirements:
   * list of orders registered in the system; 
   * list of orders received from customers, along with data of their respective customers (example: list of sales and name and address of buyers); 
   * last order launched by a particular customer; 
-  * 3 data aggregations for statistical purposes (GROUP BY) involving at least one link between the data tables (example how many properties of each type were sold, for example, how much money has each customer spent or the list of customers who have bought at least twice); \
+  * 3 data aggregations for statistical purposes (GROUP BY) involving at least one link between the data tables (example how many properties of each type were sold, for example, how much money has each customer spent or the list of customers who have bought at least twice); 
   * offering at least for one of the above scripts an alternative writing: sub-query based, with JOIN, with views, etc.
 
